@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Dungeon Crawl
 
@@ -117,3 +118,7 @@ Create a feature that allows the hero to pick up an item.
 - :book-open: [JavaFX Tutorial](http://tutorials.jenkov.com/javafx/index.html)
 
 - [1-Bit Pack by Kenney](https://kenney.nl/assets/bit-pack)
+=======
+# Dungeon_Crawler
+2D dungeon game where you can equip different weapons and armors to fight monsters.
+>>>>>>> 0c96fa99dc79df2b1f0f62dc83393450fb7878d4
